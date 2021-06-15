@@ -2,6 +2,11 @@
 
 M-PESA 1Tap on ESP32
 
+## Library
+[![arduino-library-badge](https://www.ardu-badge.com/badge/MpesaSTK.svg?)](https://www.arduinolibraries.info/libraries/mpesa-stk)
+
+[`MpesaSTK`](https://github.com/fbiego/MpesaSTK) available on Arduino Library Manager
+
 [`Demo Video`](https://www.linkedin.com/posts/fbiego_esp32-rfid-mpesa-activity-6808298597168254976-g6PV)
 
 This demo uses
